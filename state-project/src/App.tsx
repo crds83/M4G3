@@ -23,7 +23,7 @@ const App: React.FC = () => {
 
   return (
     <div style={{ textAlign: 'center', paddingTop: '50px' }}>
-      <h1>Interactive Button Demo</h1>
+      <h1>Interactive Button Demo, Press K</h1>
       <Button label="Hover Over Me!" />
 
       {/* Modal or Easter Egg */}
